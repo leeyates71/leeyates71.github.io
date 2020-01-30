@@ -26,8 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-```markdown
+
 # CS-499 Computer Science Capstone Repository
 
 ### Milestone 1 – Code Review
-```
+
