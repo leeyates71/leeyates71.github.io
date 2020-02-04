@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: William Gerraughty CS499 ePortfolio
+title: Lee Yates ePortfolio - SNHU CS-499
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   ePortfolio project for CS499 at SNHU by William Gerraughty
 twitter_username: 
-github_username: wgerraughty
-linkedin_username: wgerraughty
-minimal_mistakes_skin: dark
+github_username: leeyates71
+linkedin_username: 
+minimal_mistakes_skin: air
 search: false
 
 # Build settings
@@ -57,26 +57,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "William Gerraughty"
-  avatar   : "/assets/images/portrait.jpg"
-  bio      : "Undergraduate Senior at Southern New Hampshire University"
-  location : "New Hampshire, United States"
+  name     : "Lee Yates"
+  avatar   : "/assets/images/solo2.jpg"
+  bio      : "Southern New Hampshire University - Undergraduate"
+  location : "Texas, United States"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wgerraughty"
+      url: "https://github.com/leeyates71"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/wgerraughty"
+      url: "https://linkedin.com/in/lee-yates-ba12622"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wgerraughty"
+      url: "https://github.com/leeyates71"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/wgerraughty"
+      url: "https://linkedin.com/in/lee-yates-ba12622"
 
 defaults:
   # _posts
