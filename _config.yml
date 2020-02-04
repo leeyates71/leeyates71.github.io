@@ -90,7 +90,7 @@ defaults:
   # _pages
   - scope:
       path: "_pages/homepage.md"
-      type: homepage
+      type: pages
     values:
       layout: single
       author_profile: true
