@@ -1,5 +1,5 @@
 ---
-permalink: /projectwork/artifact-1/
+permalink: /projects/artifact-1/
 title: "Software Design and Engineering"
 ---
 ## Slideshow
