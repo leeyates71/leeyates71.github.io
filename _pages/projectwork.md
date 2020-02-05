@@ -13,4 +13,4 @@ src="https://youtube.com/embed/a5gcs915NrA" frameborder="0" allow="accelerometer
 </figure>
 
 ### Software Design and Engineering - Enhancement One  
-[Enhancement One](/projects/artifact-1){: .btn .btn--primary}
+[Enhancement One](/projectwork/artifact-1){: .btn .btn--primary}
