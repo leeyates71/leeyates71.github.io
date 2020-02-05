@@ -2,6 +2,7 @@
 permalink: /projects/artifact-1/
 title: "Software Design and Engineering"
 ---
+## Slideshow
 
 ## Enhancement One Narrative
 
@@ -10,3 +11,5 @@ title: "Software Design and Engineering"
 	The original list of enhancements for this artifact were accomplished.  The course objectives were met by increasing the complexity of this artifact.  All items listed to update or modify were accomplished.  Changing the title of the slideshow, changing the border colors, cleaning up the annotation and spacing in the code, and increasing the size of the window were items modified but were not in the original enhancements.  These are items I modified to make the artifact a completer and more polished program.  Cleaning up the annotations and spacing in the code was added after doing the code review assignment.
 	The process of enhancing and modifying the artifact was enjoyable while also challenging.  I learned to be a bit more tedious in adding annotations and creating the proper spacing to the code.  I found some of the sections to be easier to make my enhancements than others.  For instance, adding 5 new picture frames and changing the pictures for the original 5 was straightforward and easy to accomplish with little help.  On the other hand, adding the additional line item for the URL to the travel site and increasing the overall size of the window was challenging.  Modifying the sizes of the picture frames along with the text frames without overwriting the previous and next buttons took time to get right.  Another challenge was manipulating the text frame to add the URL to the bottom of the frame took time and a little research before getting it right.  I found the final product was nice and a fun project.
  
+## Link to Enhancement One Code
+[Artifact 1 Project](https://github.com/leeyates71/leeyates71.github.io/tree/master/_projects/slideshow){:target="_blank" .btn .btn--primary}
