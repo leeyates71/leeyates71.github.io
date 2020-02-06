@@ -1,0 +1,3 @@
+Hello, Zookeeper!
+
+As a zookeeper, you have access to all of the zoo's information and the daily routines. This allows you to track the ecosystem's conditions and overall health of the zoo.
