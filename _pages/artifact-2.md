@@ -2,8 +2,9 @@
 permalink: /projectwork/artifact-2/
 title: "Data Structures and Algorithms"
 ---
+## Zoo Authenticator
 
-## Narrative
+## Enhancement Two Narrative
 
 This artifact is a Java based program written to mimic a zoo authentication system.  As most programs, the authentication system is run in a console window.  The console has a prompt to enter username.  The next prompt is to enter a password.  If the username and password are correct, it will greet the user based on their role.  If you are an admin, it will greet you with a “Hello, Admin!” and give a brief description of your job duties.  The original artifact was created as an assignment in the IT-145 Foundation in Application Development course.  It was created in August of 2018.
 
