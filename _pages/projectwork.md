@@ -10,7 +10,7 @@ This is the code enhancement for the category one program.
 
 [Enhancement One](/projectwork/artifact-1){: .btn .btn--primary}
 
-### Algorithms and Data Structures - Enhancement Two
+### Data Structures and Algorithms - Enhancement Two
 
 This is the code enhancement for the category two program.
 
