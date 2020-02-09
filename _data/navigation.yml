@@ -3,7 +3,7 @@ main:
     url: /
   - title: "Code Review"
     url: /codereview
-  - title: "Project Work"
+  - title: "Artifacts"
     url: /projectwork/
   - title: "About Me"
     url: /about/
