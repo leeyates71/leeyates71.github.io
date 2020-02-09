@@ -1,6 +1,8 @@
 main:
   - title: "Home Page"
     url: /
+  - title: "Code Review"
+    url: /codereview
   - title: "Project Work"
     url: /projectwork/
   - title: "About Me"
