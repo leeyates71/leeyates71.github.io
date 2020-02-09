@@ -3,7 +3,7 @@ permalink: /
 title: "Home"
 ---
 
-This site will serve as the ePortfolio for my final project in CS-499 Computer Science Capstone.  The Self-Assessment 
+This site will serve as the ePortfolio for my final project in CS-499 Computer Science Capstone.  The professional self-assessment can be found at the Self-Assessment section of this site.  The code review can be found at the Code Review section of this site.  The 3 artifacts can be found at the Artifacts section of this site.  There will be titles and links for each artifact in the Artifact section.
 
 ## About Me
 My name is Lee Yates.  I am in my last term at SNHU to complete my Bachelor's degree in Computer Science.  I started back in this program in 2018, picking up where I left off over 20  years ago.  I have enjoyed the course material, learning multiple programming languages such as Python, Java, and C++.  I have covered topics such as Software Test Automation, Data Structures and Algorithms, Software Development Lifecycle, and Object Oriented Analysis.  I am the proud father of 2 daughters, both of which are currently in college.  I have recently been blessed with the newest addition to the family in the form of a granddaughter.  
