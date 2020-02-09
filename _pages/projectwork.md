@@ -1,6 +1,6 @@
 ---
 permalink: /projectwork/
-title: "Project Work"
+title: "Artifacts"
 ---
 
 
