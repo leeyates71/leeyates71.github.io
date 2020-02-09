@@ -1,6 +1,8 @@
 main:
   - title: "Home Page"
     url: /
+  - title: "Self Assessment"
+    url: /selfassessment    
   - title: "Code Review"
     url: /codereview
   - title: "Artifacts"
